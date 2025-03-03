@@ -1,0 +1,16 @@
+{
+  "name": "base64coding",
+  "version": "1.0.0",
+  "description": "Библиотека с функциями для кодирования данных в Base64 и обратно.",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "base64", "encoding", "base64 encoding"
+  ],
+  "author": "h41ku <h41ku.c0de@ya.ru>",
+  "license": "MIT"
+}
